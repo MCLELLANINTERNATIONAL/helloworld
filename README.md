@@ -15,6 +15,8 @@ Software Demo Video:
 - Git
 - GitHub
 
+The program was written using the Python programming language. Python was chosen because it is widely used for software development, automation, and data analysis, and it provides a simple syntax that makes it ideal for demonstrating basic program execution.
+
 ## Programming Language
 
 Python
