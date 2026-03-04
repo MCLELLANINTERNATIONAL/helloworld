@@ -6,7 +6,7 @@ This software demonstrates a simple Hello World application written in Python. A
 
 The purpose of creating this software is to reinforce the basic development workflow: writing code, executing the program from the terminal, and publishing the project to GitHub for version control and collaboration. Although simple, the program confirms that the development environment is properly configured and that the process of developing and sharing software functions as expected.
 
-Software Demo Video: 
+Software Demo Video: https://www.loom.com/share/43381cb8d36d4a4fbbcf0cdac3a9a10f
 
 ## Development Environment
 
